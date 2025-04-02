@@ -16,5 +16,18 @@
     "url": "https://github.com/luthfan98/token-swap-api/issues"
   },
   "homepage": "https://github.com/luthfan98/token-swap-api#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "express": "^5.1.0"
+  }
 }
